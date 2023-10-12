@@ -7,7 +7,7 @@ public class Main {
 
         };
         Shape rectangle = () -> {
-            System.out.println("We are drawing rectangle");
+            System.out.println("We are drawing r     ectangle");
 
         };
         Shape circle = () -> {
